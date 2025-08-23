@@ -70,6 +70,7 @@ if price > 0:
 else:
     body = 'Invalid House Features Values'
     st.warning(body)
+    
 st.markdown('Design By: **Prachi Verma**')
 
 
